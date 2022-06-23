@@ -140,7 +140,7 @@ footer{
   justify-content: space-between;
 }
 
-footer h1{
+.h1{
   width: 180px;
   display: flex;
   font-family: "constantine";
